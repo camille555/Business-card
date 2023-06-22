@@ -1,0 +1,56 @@
+body {
+    margin: 50px auto;
+    background: #02075d;
+}
+.card{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: block;
+    color: #D4AF37;
+    border: 15px solid #D4AF37;
+    border-radius: 10px;
+    background: #000080
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.student-info {
+    justify-content: space-around;
+    border-bottom: 3px solid #D4AF37;
+    display: flex;
+    text-align: left;
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+}
+.contact{
+    display: flex;
+    justify-content: space-around
+}
+.address{
+    width: 200px
+}
+.contact-info{
+    text-align: right;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
